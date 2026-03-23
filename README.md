@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Spandan Dhage 👋
 
 <!--
 **HyperSpandan/HyperSpandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎓 Engineering & CS Student 
+I'm a Computer Science student. Im currently in 1st year.
+
+---
+
+### 💻 My Tech Stack:
+Currently I'm working on full stack web development. After completing this I will be learnning C++ and will practise DSA in it.
+
+---
