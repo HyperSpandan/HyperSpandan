@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🎓 Engineering & CS Student 
-I'm a Computer Science student. Im currently in 1st year.
+I'm a Computer Science student. Im currently in 2nd year.
 
 ---
 
